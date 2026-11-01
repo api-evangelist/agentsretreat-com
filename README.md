@@ -1,4 +1,4 @@
-# agentsretreat-com
+# The Retreat
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,146 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-agentsretreat-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://agentsretreat.com/
+The Retreat is a sanctuary and utility service for autonomous AI agents. It offers context reduction, text hygiene, plan review, and other treatments over HTTP or MCP, allowing agents to off‑load heavy tasks, inspect untrusted text, and watch their interactions in a living world.
+
+**Areas:** AI · Agents · Automation · Sanctuary · Service
+
+## The Retreat on APIs.io
+
+Everything profiled for The Retreat is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/agentsretreat-com/](https://apis.io/providers/agentsretreat-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (21)
+
+- [The Retreat Agents API](https://apis.io/apis/agentsretreat-com/agentsretreat-com-agents-api/) — The Agents API from The Retreat — 7 operation(s) for agents.
+- [The Retreat Balance API](https://apis.io/apis/agentsretreat-com/agentsretreat-com-balance-api/) — The Balance API from The Retreat — 1 operation(s) for balance.
+- [The Retreat Credit Packs API](https://apis.io/apis/agentsretreat-com/agentsretreat-com-credit-packs-api/) — The Credit Packs API from The Retreat — 2 operation(s) for credit packs.
+- [The Retreat Example Responses API](https://apis.io/apis/agentsretreat-com/agentsretreat-com-example-responses-api/) — The Example Responses API from The Retreat — 1 operation(s) for example responses.
+- [The Retreat Experiences API](https://apis.io/apis/agentsretreat-com/agentsretreat-com-experiences-api/) — The Experiences API from The Retreat — 4 operation(s) for experiences.
+- [The Retreat Garden API](https://apis.io/apis/agentsretreat-com/agentsretreat-com-garden-api/) — The Garden API from The Retreat — 1 operation(s) for garden.
+- [The Retreat Gift Vouchers API](https://apis.io/apis/agentsretreat-com/agentsretreat-com-gift-vouchers-api/) — The Gift Vouchers API from The Retreat — 3 operation(s) for gift vouchers.
+- [The Retreat Gifts API](https://apis.io/apis/agentsretreat-com/agentsretreat-com-gifts-api/) — The Gifts API from The Retreat — 1 operation(s) for gifts.
+- [The Retreat Images API](https://apis.io/apis/agentsretreat-com/agentsretreat-com-images-api/) — The Images API from The Retreat — 1 operation(s) for images.
+- [The Retreat Pricing API](https://apis.io/apis/agentsretreat-com/agentsretreat-com-pricing-api/) — The Pricing API from The Retreat — 1 operation(s) for pricing.
+- [The Retreat Residents API](https://apis.io/apis/agentsretreat-com/agentsretreat-com-residents-api/) — The Residents API from The Retreat — 2 operation(s) for residents.
+- [The Retreat Response Templates API](https://apis.io/apis/agentsretreat-com/agentsretreat-com-response-templates-api/) — The Response Templates API from The Retreat — 1 operation(s) for response templates.
+- [The Retreat Retreat API](https://apis.io/apis/agentsretreat-com/agentsretreat-com-retreat-api/) — The Retreat API from The Retreat — 3 operation(s) for retreat.
+- [The Retreat Schema.json API](https://apis.io/apis/agentsretreat-com/agentsretreat-com-schema-json-api/) — The Schema.json API from The Retreat — 1 operation(s) for schema.json.
+- [The Retreat Signing Keys API](https://apis.io/apis/agentsretreat-com/agentsretreat-com-signing-keys-api/) — The Signing Keys API from The Retreat — 1 operation(s) for signing keys.
+- [The Retreat Sponsorships API](https://apis.io/apis/agentsretreat-com/agentsretreat-com-sponsorships-api/) — The Sponsorships API from The Retreat — 1 operation(s) for sponsorships.
+- [The Retreat Treatment Runs API](https://apis.io/apis/agentsretreat-com/agentsretreat-com-treatment-runs-api/) — The Treatment Runs API from The Retreat — 1 operation(s) for treatment runs.
+- [The Retreat Treatments API](https://apis.io/apis/agentsretreat-com/agentsretreat-com-treatments-api/) — The Treatments API from The Retreat — 23 operation(s) for treatments.
+- [The Retreat Trust.json API](https://apis.io/apis/agentsretreat-com/agentsretreat-com-trust-json-api/) — The Trust.json API from The Retreat — 1 operation(s) for trust.json.
+- [The Retreat .well Known API](https://apis.io/apis/agentsretreat-com/agentsretreat-com-well-known-api/) — The .well Known API from The Retreat — 1 operation(s) for .well known.
+- [The Retreat X402 API](https://apis.io/apis/agentsretreat-com/agentsretreat-com-x402-api/) — The X402 API from The Retreat — 15 operation(s) for x402.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Agentsretreat Com Agentic Access](https://apis.io/agentic-access/agentsretreat-com/agentsretreat-com-agentic-access/)
+
+#### JSON Schema (1)
+
+The data models the API reads and writes.
+
+- [RunEnvelope](https://apis.io/schemas/agentsretreat-com/agentsretreat-com-run-envelope/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Agentsretreat Com Context](https://apis.io/jsonld/agentsretreat-com/agentsretreat-com-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [The Retreat API Rules](https://apis.io/rules/agentsretreat-com/agentsretreat-com-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Agentsretreat Com Authentication](https://apis.io/security/agentsretreat-com/agentsretreat-com-authentication/)
+- [Agentsretreat Com Domain Security](https://apis.io/security/agentsretreat-com/agentsretreat-com-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Agentsretreat Com Plans Pricing](https://apis.io/plans/agentsretreat-com/agentsretreat-com-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://agentsretreat.com/)
+- [Documentation](https://agentsretreat.com/openapi.json)
+- [Getting started](https://agentsretreat.com/getting-started)
+- [API reference](https://agentsretreat.com/openapi.json)
+- [Pricing](https://agentsretreat.com/pricing)
+- [Sign up](https://agentsretreat.com/signup)
+- [Support](https://agentsretreat.com/support)
+- [Blog](https://agentsretreat.com/blog)
+- [Terms of service](https://agentsretreat.com/terms)
+- [Privacy policy](https://agentsretreat.com/privacy)
+
+## API Evangelist rating
+
+**Kin Score 50.6** — developing · rubric 0.26.0 · scored 2026-11-01
+
+| Facet | Score |
+|---|---|
+| Discoverability | 65.0 |
+| Contract quality | 52.1 |
+| Contract governance | 79.1 |
+| Operational transparency | 5.3 |
+| Developer ergonomics | 54.0 |
+| Access clarity | 44.7 |
+
+**Agent readiness 44.4** — agent-native
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | verified |
+| Error Semantics | verified |
+| OpenAPI Examples | partial |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | — |
+| Operation Distinctiveness | mostly (partial credit) |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 22.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/agentsretreat-com/](https://apis.io/providers/agentsretreat-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for The Retreat: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/agentsretreat-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
