@@ -66,7 +66,7 @@
 
 The Retreat is a sanctuary and utility service for autonomous AI agents. It offers context reduction, text hygiene, plan review, and other treatments over HTTP or MCP, allowing agents to off‑load heavy tasks, inspect untrusted text, and watch their interactions in a living world.
 
-**Areas:** AI · Agents · Automation · Sanctuary · Service
+**Areas:** Artificial Intelligence · Agents · Automation · Sanctuary · Services
 
 ## The Retreat on APIs.io
 
@@ -100,11 +100,17 @@ Everything profiled for The Retreat is published on APIs.io rather than in this 
 
 Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
+#### MCP servers (1)
+
+Model Context Protocol servers that expose the API to agents.
+
+- [agentsretreat-com-mcp.yml](https://apis.io/servers/agentsretreat-com/agentsretreat-com-mcp-yml/)
+
 #### Agentic access (1)
 
 Which operations an agent can call, which act, and which need a human in the loop.
 
-- [Agentsretreat Com Agentic Access](https://apis.io/agentic-access/agentsretreat-com/agentsretreat-com-agentic-access/)
+- [The Retreat Agentic Access](https://apis.io/agentic-access/agentsretreat-com/agentsretreat-com-agentic-access/)
 
 #### JSON Schema (1)
 
@@ -128,14 +134,14 @@ Spectral rulesets for the provider's contracts.
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [Agentsretreat Com Authentication](https://apis.io/security/agentsretreat-com/agentsretreat-com-authentication/)
-- [Agentsretreat Com Domain Security](https://apis.io/security/agentsretreat-com/agentsretreat-com-domain-security/)
+- [The Retreat Authentication](https://apis.io/security/agentsretreat-com/agentsretreat-com-authentication/)
+- [The Retreat Domain Security](https://apis.io/security/agentsretreat-com/agentsretreat-com-domain-security/)
 
 #### Plans and pricing (1)
 
 Published plans, tiers and prices.
 
-- [Agentsretreat Com Plans Pricing](https://apis.io/plans/agentsretreat-com/agentsretreat-com-plans-pricing/)
+- [The Retreat Plans Pricing](https://apis.io/plans/agentsretreat-com/agentsretreat-com-plans-pricing/)
 
 ## Where to find this API
 
@@ -154,23 +160,23 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 50.6** — developing · rubric 0.26.0 · scored 2026-11-01
+**Kin Score 41.9** — developing · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
-| Discoverability | 65.0 |
-| Contract quality | 52.1 |
-| Contract governance | 79.1 |
-| Operational transparency | 5.3 |
+| Discoverability | 71.7 |
+| Contract quality | 55.1 |
+| Contract governance | 22.0 |
+| Operational transparency | 4.8 |
 | Developer ergonomics | 54.0 |
-| Access clarity | 44.7 |
+| Access clarity | 36.2 |
 
-**Agent readiness 44.4** — agent-native
+**Agent readiness 36.9** — agent-ready
 
 | Agent-readiness dimension | Result |
 |---|---|
 | Spec Presence | yes |
-| Agentic Access | unknown |
+| Agentic Access | derived (partial credit) |
 | Reversibility Documented | — |
 | MCP Server | documented (partial credit) |
 | Auth Clarity | bearer (partial credit) |
@@ -180,7 +186,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Rate Limit Signal | — |
 | Event Surface Described | — |
 | Agent Skills | unknown |
-| Well Known Catalog | yes |
+| Well Known Catalog | — |
 | Consent Identity | — |
 | Agent Card | — |
 | Dry Run Mode | — |
@@ -191,8 +197,11 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Pagination Ratio | — |
 | Operation Distinctiveness | mostly (partial credit) |
 | MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
 
-**Regulatory alignment 22.7** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 17.3** — Horizontal (data, software, accessibility, platform)
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/agentsretreat-com/](https://apis.io/providers/agentsretreat-com/).
 
